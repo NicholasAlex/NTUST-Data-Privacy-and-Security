@@ -1,7 +1,7 @@
 # HW2 — Differentially Private Synthetic Data
 **Dataset:** Spaceship Titanic (Kaggle)  
 **Method:** PrivBayes via DataSynthesizer  
-**Course:** Data Privacy and Anonymization Security
+**Course:** Data Privacy and Security
 
 ---
 
